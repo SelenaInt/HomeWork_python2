@@ -1,3 +1,5 @@
+# Реализуйте алгоритм перемешивания списка.
+
 import random
 
 def mix_list(list_original):
